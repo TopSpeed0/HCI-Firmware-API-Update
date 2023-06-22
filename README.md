@@ -7,3 +7,6 @@ just make sure you have powershell 7 and curl
 https://docs.netapp.com/us-en/hci/docs/task_hcc_upgrade_compute_node_firmware.html#use-netapp-hybrid-cloud-control-api-to-upgrade-a-compute-node
 
 # to get controller id also you can run this line
+#firmware name u can also get https://mnode/package-repository/1/packages?name=compute-firmware
+
+### make sure to fix the vars they are generic.
