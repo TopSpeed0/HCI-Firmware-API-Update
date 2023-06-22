@@ -4,7 +4,6 @@
 This script requires PowerShell 7 or higher.
 
 .DESCRIPTION
-This script performs XYZ task.
 The script retrieves detailed information about the selected node using cURL and the provided API endpoint. The result is converted from JSON format using ConvertFrom-Json and stored in the $SelectedNode variable.
 
 Next, the script displays the IPMI (Intelligent Platform Management Interface) information of the selected host and prompts the user to access a URL for an overview of the process. The Write-Host and pause commands are used for this purpose.
