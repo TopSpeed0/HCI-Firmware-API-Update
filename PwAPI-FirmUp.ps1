@@ -28,6 +28,7 @@ Requires: PowerShell 7 or higher
 $mnode = 'mnode-ip'
 $MVIP = 'mvip-ip'
 $username = 'username'
+# can get also from $instalation.compute.inventory.clusters.controllerId
 $controllerID = '3b4e07fe-26a6-4ba3-a27d-827a7f8f35fe'
 #firmware name u can also get https://mnode/package-repository/1/packages?name=compute-firmware
 $firmwareName = '2.174.0-12.8.11'
